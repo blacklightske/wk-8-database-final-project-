@@ -19,7 +19,7 @@ Below is the **ER Diagram** for the database:
 
 ## ER Diagram
 
-![ER Diagram](https://www.plantuml.com/plantuml/dpng/hPJ1ZjGm38RlUOfeBu3GlC2U5ea7GC0zSXFFD58ILuaBB0plJjDcD7Mdg4BYjCflr_xywzzvAGoPnnZK6_q9s6DYpT05L9ZOywj-QkgJ_gMqVZyiB-ETVjO-STNEOmWcGSH9-WRPzf2hZ15yaDBGKzfqEM0qT3QTpznFfVgk-WMJmxpg_Qqcn8zacVA6S14Re9iV_u-lznbDXMfi2yUN0Qs7u7y2UqeR7bbiN4M8WkyHpM6nsG-rSoem_k2zjMRjXduR8RsUc4xrhyuO5hGE-JjYkZa7oMsclFiBjpcoTV-YHlgPA6vigLARbecYc3KBQOmTPkd4EH3bzU0Fmq3J8pu6TLLfQw0fCh3x8TuUA3zV9u1znFb-1XwBm1M7DU2l6M4Fj-fhMBwz_paRLRLKkFAXzH72WrL6KXobHRWCoTsFkATbE_tOU76ZJ4lRNte_57Nx7RfUJoUw2fPdtKDHBSkxTKl9ZPQBgd7RRu5I_2MXCqnAPhxrx_-VoUK7dHq6IfTILwoNInxftMo83QF3effu_CNiQ54lE5qTmny0)
+![ER Diagram](./erd.png)
 
 ## Database Structure
 
